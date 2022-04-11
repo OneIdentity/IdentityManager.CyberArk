@@ -6,9 +6,7 @@ This solution accelerator provides functionality for integrating with the CyberA
 
 The solution accelerator has been created using a version One Identity Manager 8.1.x.
 
-Please refer to [Document]("") "CyberArk solution accelerator.docx" for more information
-
-Download the [.NET 5 SDK](CyberArk solution accelerator.docx)
+Please refer to "CyberArk solution accelerator.docx" for more information
 
 <!-- LICENSE -->
 ## License
