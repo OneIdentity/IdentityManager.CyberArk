@@ -4,5 +4,5 @@
 
 <!-- LICENSE -->
 ## License
- <!-
+
 Distributed under the One Identity - Open Source License. See [LICENSE](LICENSE.md) for more information.
